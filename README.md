@@ -1,4 +1,4 @@
-# rewards-service
+# Rewards Service
 Retail Customers Rewards Service 
 
 A retailer offers a rewards program to its customers, awarding points based on each recorded purchase.
